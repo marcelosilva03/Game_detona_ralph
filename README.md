@@ -1,7 +1,7 @@
 ## Sobre o Game do Detona Ralph!
 
 <p align="center">
-  <img src="https://vejasp.abril.com.br/wp-content/uploads/2016/12/cartaz-nacional__-1.jpg?quality=70&strip=all" alt="Detona Ralph">
+  <img src="[https://vejasp.abril.com.br/wp-content/uploads/2016/12/cartaz-nacional__-1.jpg?quality=70&strip=all](https://i0.wp.com/www.disneypoint.com/wp-content/uploads/2018/10/Disney-Point-Ralph-Vanellope-Epcot.jpg?fit=1280%2C719&ssl=1)" alt="Detona Ralph">
 </p>
 
 Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
